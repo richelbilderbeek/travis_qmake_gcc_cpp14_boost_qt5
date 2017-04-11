@@ -18,8 +18,14 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Source: QDialog with Qt resource file
 
 More complex builds:
+
  * Add SFML: [travis_qmake_gcc_cpp14_boost_qt5_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost_qt5_sfml)
 
+Equally complex builds:
+
+ * Use AppVeyor: [appveyor_qmake_gcc_cpp14_boost_qt5](https://www.github.com/richelbilderbeek/appveyor_qmake_gcc_cpp14_boost_qt5)
+
 Less complex builds:
+
  * No Boost: [travis_qmake_gcc_cpp14_qt5](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_qt4)
  * No Qt5: [travis_qmake_gcc_cpp14_boost](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost)
