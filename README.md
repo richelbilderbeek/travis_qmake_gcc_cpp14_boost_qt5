@@ -24,7 +24,7 @@ More complex builds:
 
 Equally complex builds:
 
- * Use AppVeyor: [appveyor_qmake_gcc_cpp14_boost_qt5](https://www.github.com/richelbilderbeek/appveyor_qmake_gcc_cpp14_boost_qt5)
+ * Use AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/4n16v893vc5ky1n1/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-qmake-gcc-cpp14-boost-qt5/branch/master) [appveyor_qmake_gcc_cpp14_boost_qt5](https://www.github.com/richelbilderbeek/appveyor_qmake_gcc_cpp14_boost_qt5)
 
 Less complex builds:
 
